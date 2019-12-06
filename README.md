@@ -1,5 +1,7 @@
 # ROS_aruco_detection
-Basic ROS node for aruco detection
+Basic ROS node for aruco detection.
+
+**Run the launch file and the python executable file separately**
 
 # Note
 Follow this link for setting up OpenCv depending on your ROS-distribution.
@@ -15,3 +17,4 @@ You can even use the "/usb_camera/image_raw/compressed" with the **Image_transpo
 
 I have used the aruco library in python for detecting Aruco Markers using OpenCV.
 **Specify the aruco dictionary in code.**
+
